@@ -7,3 +7,7 @@
     width: 100px;
     border-radius: 30%;
 }
+
+html {
+    scroll-behavior: smooth;
+}
